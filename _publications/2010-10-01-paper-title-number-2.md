@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "Enhanced Privacy Bound for Shuffle Model with Personalized Privacy"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/cikm2024-enhanced
+date: 2024-01-01
+venue: "CIKM 2024"
+paperurl: 'https://dl.acm.org/doi/10.1145/3627673.3679911'
+authors: "**Yixuan Liu**, Yuhan Liu, Li Xiong, Yujie Gu, Hong Chen"
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Proceedings of the 33rd ACM International Conference on Information & Knowledge Management (CCF B).
