@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yixuan Liu "
+title                    : "Yixuan / Basic info"
 title_separator          : "-"
 name                     : &name "Yixuan Liu"
 description              : &description "Researcher in Differential Privacy, Federated Learning, and Data Privacy."   # Update this with a general description of your site, this is the default if not overridden by a page
