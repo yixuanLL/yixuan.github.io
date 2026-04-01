@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,13 +10,13 @@ redirect_from:
 
 Hi, I'm **Yixuan Liu**.
 
-I am currently a **Lecturer at Beijing University of Technology**, working in the areas of **data privacy**, **trustworthy artificial intelligence**, and **privacy-preserving federated learning**.
+I am currently a Lecturer at **Beijing University of Technology**, working in the areas of **data privacy**, **trustworthy artificial intelligence**, and **privacy-preserving federated learning**.
 
 I received my **Ph.D. in 2025** from **Renmin University of China** in Beijing, under the supervision of **Prof. Hong Chen**. Prior to that, I obtained my Master’s degree from Waseda University in Japan, and my Bachelor’s degree from Southeast University in Nanjing.
 
-My research is driven by a central question: *how can we build intelligent systems that are both useful and trustworthy in the presence of sensitive and distributed data?* To this end, I focus on differential privacy, personalized privacy mechanisms, and privacy risks in multi-source data publish and federated learning settings.
 
 ### Research Interests
+My research is driven by a central question: *how can we build intelligent systems that are both useful and trustworthy in the presence of sensitive and distributed data?* To this end, I focus on differential privacy, personalized privacy mechanisms, and privacy risks in multi-source data publish and federated learning settings.
 
 - Differential privacy and its optimization in modern machine learning systems  
 - Privacy protection and utility trade-offs in federated learning  
