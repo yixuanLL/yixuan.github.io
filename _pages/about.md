@@ -6,23 +6,24 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-
 Hi, I'm **Yixuan Liu**.
 
-I am currently a Lecturer at **Beijing University of Technology**, working in the areas of **data privacy**, **trustworthy artificial intelligence**, and **privacy-preserving federated learning**.
+I am currently a Lecturer at **Beijing University of Technology**, working in the areas of **data privacy**, **trustworthy AI**, and **privacy-preserving federated learning**.
 
 I received my **Ph.D. in 2025** from **Renmin University of China** in Beijing, under the supervision of **Prof. Hong Chen**. Prior to that, I obtained my Master’s degree from Waseda University in Japan, and my Bachelor’s degree from Southeast University in Nanjing.
 
 
 ### Research Interests
-My research is driven by a central question: *how can we build intelligent systems that are both useful and trustworthy in the presence of sensitive and distributed data?* To this end, I focus on differential privacy, personalized privacy mechanisms, and privacy risks in multi-source data publish and federated learning settings.
+My research aims to understand and improve how privacy mechanisms impact learning systems in practice, especially in distributed and multi-source settings:
 
-- Differential privacy and its optimization in modern machine learning systems  
-- Privacy protection and utility trade-offs in federated learning  
-- Trustworthy AI with rigorous privacy guarantees  
+- Differential privacy and its optimization
+- Privacy-utility trade-offs in federated learning
+- Privacy risks in correlated and multi-source data
+- Personalized and heterogeneous privacy protection
 
-Feel free to reach me out if you are interested in collaboration or discussion!
+
+Feel free to reach me out if you're interestied in collaoration or discussion!
+
 ---
 
 📧 Email: liuyx@bjut.edu.cn  
